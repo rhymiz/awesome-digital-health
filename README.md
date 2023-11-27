@@ -14,3 +14,7 @@ An open source list of all US-based digital health startups
 10) [Saina Health](https://www.sainahealth.com)
 11) [KangarooHealth](http://www.kangaroohealth.com)
 12) [Quit Genius](http://www.quitgenius.com)
+13) [ENSO](http://www.ensorelief.com)
+14) [Medici](https://www.medici.md/)
+15) [EngagedMD](http://www.engagedmd.com)
+16) [Quartet Health](http://www.quartethealth.com/)
